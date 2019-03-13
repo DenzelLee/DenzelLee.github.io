@@ -1,16 +1,16 @@
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
-[![GitHub stars](https://img.shields.io/github/stars/NicolasLee/NicolasLee.github.io.svg)](https://github.com/NicolasLee/NicolasLee.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/NicolasLee/NicolasLee.github.io.svg)](https://github.com/NicolasLee/NicolasLee.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/NicolasLee/NicolasLee.github.io.svg)](https://github.com/NicolasLee/NicolasLee.github.io/issues)
-[![GitHub release](https://img.shields.io/github/release/NicolasLee/NicolasLee.github.io.svg)](https://github.com/NicolasLee/NicolasLee.github.io/releases)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/NicolasLee/NicolasLee.github.io/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/DenzelLee/DenzelLee.github.io.svg)](https://github.com/DenzelLee/DenzelLee.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DenzelLee/DenzelLee.github.io.svg)](https://github.com/DenzelLee/DenzelLee.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/DenzelLee/DenzelLee.github.io.svg)](https://github.com/DenzelLee/DenzelLee.github.io/issues)
+[![GitHub release](https://img.shields.io/github/release/DenzelLee/DenzelLee.github.io.svg)](https://github.com/DenzelLee/DenzelLee.github.io/releases)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/DenzelLee/DenzelLee.github.io/master/LICENSE)
 
-**[中文版 Chinese README 请点击这里 🇨🇳](https://github.com/NicolasLee/NicolasLee.github.io/blob/master/README-zh-cn.md)**
+**[中文版 Chinese README 请点击这里 🇨🇳](https://github.com/DenzelLee/DenzelLee.github.io/blob/master/README-zh-cn.md)**
 
 With the escalation of jekyll version, but I also want to reconstruct my older blog theme, so I did reconstruction and added some features recently. My new blog theme will still be stored in this repository. I will also use this theme in the future. Now I have done basically, then I will focus on issues that users opend to make theme better.
 
-**My Blog Url: [http://NicolasLee.github.io/](http://NicolasLee.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
+**My Blog Url: [http://DenzelLee.github.io/](http://DenzelLee.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
 
 ## Content
 
@@ -113,7 +113,7 @@ Of course, I have done a very good mobile adaptation.
 
 ### Footer
 
-**Welcome to use this blog theme, but please keep the theme author info at footer.** Theme designed by [HyG](https://github.com/NicolasLee).
+**Welcome to use this blog theme, but please keep the theme author info at footer.** Theme designed by [HyG](https://github.com/DenzelLee).
 
 ![footer](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bepd8002j20hl02ct95.jpg)
 
@@ -168,10 +168,10 @@ Shows at site header part.
 
 ```yml
 # Site settings
-title: Nicolas Lee
+title: Denzel Lee
 brief-intro: 软件折腾工程师
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://NicolasLee.github.io" # the base hostname & protocol for your site
+url: "http://DenzelLee.github.io" # the base hostname & protocol for your site
 ```
 
 #### Link info
@@ -297,7 +297,7 @@ You can also donate me for a coffee, and I'll do better. Thanks.
 
 |                                 Alipay                                 |                                   Wechat Pay                                    |
 |:----------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| ![alipay](https://raw.githubusercontent.com/NicolasLee/nicolaslee.github.io/master/pictures/PayMeAliPay.jpg) | ![wechat](https://raw.githubusercontent.com/NicolasLee/nicolaslee.github.io/master/pictures/PayMeWeChat.jpg) | 
+| ![alipay](https://raw.githubusercontent.com/DenzelLee/Denzellee.github.io/master/pictures/PayMeAliPay.jpg) | ![wechat](https://raw.githubusercontent.com/DenzelLee/Denzellee.github.io/master/pictures/PayMeWeChat.jpg) | 
 
 
 
@@ -311,13 +311,13 @@ Thanks these friends!!!
 
 ### 2017.2.28
 
-- `[^]` fix smoothScroll bug in Tencent webview like wechat and qq.  [#22](https://github.com/NicolasLee/NicolasLee.github.io/issues/22), [#48](https://github.com/NicolasLee/NicolasLee.github.io/issues/48)
+- `[^]` fix smoothScroll bug in Tencent webview like wechat and qq.  [#22](https://github.com/DenzelLee/DenzelLee.github.io/issues/22), [#48](https://github.com/DenzelLee/DenzelLee.github.io/issues/48)
 
 ### 2016.6.20
 
 * `[+]` Add next post and previous post link in post page.
 * `[^]` Change the sort of font-family to avoid full-width half-width characters mistake.
-* `[^]` Fix bug in tags cloud when division by zero. [#26](https://github.com/NicolasLee/NicolasLee.github.io/issues/26), [#28](https://github.com/NicolasLee/NicolasLee.github.io/issues/28), [#30](https://github.com/NicolasLee/NicolasLee.github.io/issues/30)
+* `[^]` Fix bug in tags cloud when division by zero. [#26](https://github.com/DenzelLee/DenzelLee.github.io/issues/26), [#28](https://github.com/DenzelLee/DenzelLee.github.io/issues/28), [#30](https://github.com/DenzelLee/DenzelLee.github.io/issues/30)
 
 ### 2016.5.11 v2.0.1
 
@@ -349,4 +349,4 @@ Thanks these friends!!!
 
 ## License
 
-[MIT License](https://github.com/NicolasLee/NicolasLee.github.io/blob/master/LICENSE.md)
+[MIT License](https://github.com/DenzelLee/DenzelLee.github.io/blob/master/LICENSE.md)
